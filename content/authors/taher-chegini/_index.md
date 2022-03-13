@@ -68,4 +68,4 @@ user_groups:
 
 My main research focus is large-scale urban hydrology modeling. I am passionate about and an advocate for open-source software and open science. I have developed several open-source Python libraries that are available on [Github](https://github.com/cheginit).
 
-I enjoy reading about philosophy of science, cosmology, and quantum physics. Science-fiction and fantasy are my favorite genre of books/movies/TV shows. Watching movies and cooking Pizza are my guilty pleasures!
+Furthermore, I enjoy reading about the philosophy of science, cosmology, and quantum physics. Science-fiction and fantasy are my favorite genre of books/movies/TV shows. Watching movies and cooking Pizza are my guilty pleasures!

@@ -23,7 +23,7 @@ bio: My research interests include earth system modeling and drought
 interests:
 - Riverine biogeochemical modeling
 - Drought and hedging
-- Mechine Learning
+- Machine Learning
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
 - Grad Students
 ---
 
-I took my undergraduate in China, and after that I went to SUNY at Buffalo for a master program in Environmental and water resources engineering. Since Fall 2021, I joined Dr. Li’s research group and specialized in Earth System Modeling. My current research is about riverine biogeochemical, to be more specific the transport of Nitrogen, Carbon, and Phosphorus in the river. Having fun with friends, traveling, swimming, doing some gym and cooking take up most of my leisure time.
+I took my undergraduate in China, and after that, I went to SUNY at Buffalo for a master's program in Environmental and water resources engineering. Since Fall 2021, I joined Dr. Li’s research group and specialized in Earth System Modeling. My current research is about riverine biogeochemical, to be more specific the transport of Nitrogen, Carbon, and Phosphorus in the river. Having fun with friends, traveling, swimming, doing some gym and cooking take up most of my leisure time.

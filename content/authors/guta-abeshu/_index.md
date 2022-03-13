@@ -69,4 +69,6 @@ user_groups:
 - Grad Students
 ---
 
-Ecohydrology in a natural and built environment is my primary research theme, focusing on the novel use of large data sets for continental-scale research questions regarding catchment hydrology, vegetation dynamics, sediment hydrology, etc. My modeling research mainly focuses on water management infrastructures representations in the global hydrologic model. I enjoy playing soccer, watching movies, and reading old science books during my free time.
+Ecohydrology in a natural and built environment is my primary research theme, focusing on the novel use of large data sets for continental-scale research questions regarding catchment hydrology, vegetation dynamics, sediment hydrology, etc. My modeling research mainly focuses on water management infrastructures representations in the global hydrologic model.
+
+I enjoy playing soccer, watching movies, and reading old science books during my free time.

@@ -23,7 +23,6 @@ bio:
 interests:
 - River and Coastal Hydrological Modeling
 - Big Data Analysis
-- 
 
 education:
   courses:
@@ -61,6 +60,7 @@ user_groups:
 - Grad Students
 ---
 
-I accomplished the internship at FMC technologies and worked as an engineer at a research science company. 
+I accomplished the internship at FMC technologies and worked as an engineer at a research science company.
+
 My current research is about the correspondence between the mathematical models and the measured riverine sediment data. I enjoy working with data and models, which helps to develop theory and make new conclusions and assumptions or proof the existing one.
-I really enjoy reading, walking, and spending time with my family and I have a lot of hobbies, like photos, music (worked as DJ), movies, etc. 
+I enjoy reading, walking, and spending time with my family and I have a lot of hobbies, like photos, music (worked as DJ), movies, etc.
