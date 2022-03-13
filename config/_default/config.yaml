@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wonders of Water Research Group # Website name
-baseURL: 'https://wonder-of-water-group.netlify.app' # Website URL
+title: Wonders of Water Lab
+baseURL: 'https://wow-uh.github.io'
 
 ############################
 ## LANGUAGE
