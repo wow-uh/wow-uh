@@ -68,4 +68,4 @@ user_groups:
 
 Urbanization has affected the hydrological cycle. The hydrological changes have a significant implications on water quantity and quality. My research focuses on large-scale urban hydrology modeling, flood frequency analysis, and micro-plastic debris analysis.
 
-I love photography. Urban and rural transformations, animals, and portraits are my favoriate photography themes. I enjoy outdoor activities and sports, such as hiking, mountaineering, and tennis.
+I love photography. Urban and rural transformations, animals, and portraits are my favorite photography themes. I enjoy outdoor activities and sports, such as hiking, mountaineering, and tennis.
