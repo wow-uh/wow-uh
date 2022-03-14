@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting scholar from Xi'An Science & Tech. University
+role: Visiting scholar (2016-2017)
 
 # Organizations/Affiliations
 organizations:
