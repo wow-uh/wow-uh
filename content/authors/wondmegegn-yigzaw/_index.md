@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wondmegegn (Wondie) Yigzaw
+title: Wondmagegn (Wondie) Yigzaw
 
 # Username (this should match the folder name)
 authors:
-- wondmegegn-yigzaw
+- wondmagegn-yigzaw
 
 # Is this the primary user of the site?
 superuser: false
