@@ -12,7 +12,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Congratulations to Taher Chegini for publishing his paper at the Journal of the American Water Resources Association titled "A Novel Framework for Parametric Analysis of Coastal Transition Zone Modeling"
+Congratulations to Taher Chegini for publishing his paper in the Journal of the American Water Resources Association titled "A Novel Framework for Parametric Analysis of Coastal Transition Zone Modeling"
 
 ## Abstract
 
