@@ -15,5 +15,4 @@ A realistic runoff routing model captures temporal and spatial variability of st
 
 Physical and virtual water transfer can be analyzed through a global water-food-energy nexus study. As the Spatio-temporal distribution of water changes, it is important to look at global surface water quality and quantity by employing global river routing and stream temperature models.
 
-<!-- ![MOSART diagram](mosart.png "Mosart Conceptual Diagram") -->
-{{< figure src="mosart.png" caption="Mosart Conceptual Diagram" width="1500" >}}
+{{< figure src="mosart.png" caption="Mosart Conceptual Diagram and Example Results" width="1500" >}}
