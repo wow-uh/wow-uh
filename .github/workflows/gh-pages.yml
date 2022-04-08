@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  HUGO_VERSION: '0.93.1'
+  HUGO_VERSION: '0.95.0'
   HUGO_ENABLEGITINFO: true
   HUGO_ENV: production
   URL: 'https://wow-uh.github.io'
