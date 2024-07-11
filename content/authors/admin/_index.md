@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV.pdf
+  link: files/CV_Hongyi_Li_March_2024_long.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "hli57@uh.edu"
