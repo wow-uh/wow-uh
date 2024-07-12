@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD student (2018-2023)
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: "tchegini@uh.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 My main research focus is large-scale urban hydrology modeling. I am passionate about and an advocate for open-source software and open science. I have developed several open-source Python libraries that are available on [Github](https://github.com/cheginit).
