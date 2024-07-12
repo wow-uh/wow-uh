@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student (2019-2022)
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: "ajimenez18@uh.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 My current main research focus is on modeling the drought response of natural watershed sites at the pan-tropic scale. My modeling research uses large data sets fed into Earth System Models.
