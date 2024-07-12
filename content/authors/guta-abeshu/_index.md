@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD student (2017-2022)
 
 # Organizations/Affiliations
 organizations:
@@ -61,12 +61,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gwabesu@uh.edu"
+# email: "gwabesu@uh.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Ecohydrology in a natural and built environment is my primary research theme, focusing on the novel use of large data sets for continental-scale research questions regarding catchment hydrology, vegetation dynamics, sediment hydrology, etc. My modeling research mainly focuses on water management infrastructures representations in the global hydrologic model.
