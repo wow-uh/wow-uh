@@ -19,11 +19,11 @@ organizations:
   url: "https://www.cive.uh.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large-scale urban hydrological modeling, peak flood analysis, and its impact on socio-economics.
+bio: My research interests include large-scale urban hydrological modeling, peak flood analysis, and water resources management.
 
 interests:
 - Urban Hydrological Modeling
-- Flood Frequency Analysis
+- Water resources management particulary floods
 - Scaling behavior of flood peaks
 
 education:
@@ -67,6 +67,6 @@ user_groups:
 - Grad Students
 ---
 
-Currently, my main research focus is large-scale urban hydrology modeling and the scaling behavior of flood peaks.
+Recently, large-scale urban hydrology modeling, water resources management particulary floods, and the scaling behavior of flood peaks have been my primary research areas.
 
-Additionally, I enjoy reading eastern mystic books, particularly those on the non-dual path and self-realization, which are also part of my daily life exploration. Besides that, playing and watching soccer are my favorite activities.
+As part of my everyday life inquiry, I also like to read books on eastern mysticism, especially those that focus on the non-dual path and self-realization. Apart from that, my favorite things to do are play and watch soccer.
