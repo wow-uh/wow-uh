@@ -22,12 +22,11 @@ organizations:
 bio: My research primarily focuses on digital twins of reservoir management in watershed at scales integrating artificial intelligence. 
 
 interests:
--	Earth system modeling 
--	Climate change 
--	Watershed hydrology modeling
--	Artificial intelligence
--	GIS and remote sensing  
-
+- Earth system modeling 
+- Climate change
+- Watershed hydrology modeling
+- Artificial intelligence
+- GIS and remote sensing
 
 education:
   courses:
@@ -48,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:arahaman@.uh.edu'
-- icon: LinkedIn
-  icon_pack: fab
-  link: https://bd.linkedin.com/in/azrahaman
+# - icon: LinkedIn
+#   icon_pack: fab
+#   link: https://bd.linkedin.com/in/azrahaman
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0Mg2S1gAAAAJ&hl=en
