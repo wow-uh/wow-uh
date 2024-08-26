@@ -47,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:arahaman@.uh.edu'
-# - icon: LinkedIn
-#   icon_pack: fab
-#   link: https://bd.linkedin.com/in/azrahaman
+- icon: linkedin
+  icon_pack: fab
+  link: https://bd.linkedin.com/in/azrahaman
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0Mg2S1gAAAAJ&hl=en
