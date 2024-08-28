@@ -53,6 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0Mg2S1gAAAAJ&hl=en
+- icon: globe
+  icon_pack: fab
+  link: https://sites.google.com/view/azr-wre/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +75,4 @@ My research primarily focuses on digital twins of reservoir management in waters
 
 I have decade of industrial experiences on watershed hydrology modeling, climate data downscaling and impact assessment, flood risk management, urban stormwater modeling, climate change adaptation and mitigation, spatial planning, application of GIS and remote sensing. 
 
-In leisure, I love observing nature, watching movies, travelling, networking, knowing new culture & culinary around the world. I am co-founder of [water resources engineering forum hosted from Bangladesh](https://sites.google.com/view/azr-wre/), an online platform of knowledge exchange, resources and networking.  
+In leisure, I love observing nature, watching movies, travelling, networking, knowing new culture & culinary around the world. I am co-founder of water resources engineering forum hosted from Bangladesh, an online platform of knowledge exchange, resources and networking.  
