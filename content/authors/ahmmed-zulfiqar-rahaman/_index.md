@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ahmmed Zulfiqa Rahaman
+title: Ahmmed Zulfiqar Rahaman
 
 # Username (this should match the folder name)
 authors:
-- ahmmed-zulfiqa-rahaman
+- ahmmed-zulfiqar-rahaman
 
 # Is this the primary user of the site?
 superuser: false
@@ -72,4 +72,4 @@ My research primarily focuses on digital twins of reservoir management in waters
 
 I have decade of industrial experiences on watershed hydrology modeling, climate data downscaling and impact assessment, flood risk management, urban stormwater modeling, climate change adaptation and mitigation, spatial planning, application of GIS and remote sensing. 
 
-In leisure, I love observing nature, watching movies, travelling, networking, knowing new culture & culinary around the world. I am co-founder of water resources engineering forum hosted from Bangladesh, an online platform of knowledge exchange, resources and networking.  
+In leisure, I love observing nature, watching movies, travelling, networking, knowing new culture & culinary around the world. I am co-founder of [water resources engineering forum hosted from Bangladesh](https://sites.google.com/view/azr-wre/), an online platform of knowledge exchange, resources and networking.  
