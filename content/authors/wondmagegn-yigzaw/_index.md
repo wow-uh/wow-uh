@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: postdoctoral researcher (2016-2020)
+role: Postdoctoral Researcher (2016-2020)
 
 # Organizations/Affiliations
 organizations:
