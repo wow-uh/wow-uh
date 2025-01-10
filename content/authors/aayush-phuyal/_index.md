@@ -52,6 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: http://github.com/globalpolicy
+- icon: globe
+  icon_pack: fas
+  link: https://c0dew0rth.blogspot.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +72,4 @@ user_groups:
 
 I completed my Bachelor's Degree in Civil Engineering, and my Master's Degree in Water Resources Engineering from Pulchowk Campus, Institute of Engineering, Tribhuvan University, Nepal. My Master's thesis dealt with the development of a rain-on-grid model using HEC-RAS 2D for the Kathmandu Valley catchment area at Khokana, and I will be joining Dr. Li's research group as a PhD student starting Spring 2025 at the University of Houston to develop and upgrade new and existing hydrological models.
 
-Outside of research, I am passionate about learning new programming technologies and writing practical software-based solutions to everyday problems with them. I document my programming journey in my blog (c0dew0rth.blogspot.com). I also enjoy working out and spending time outside.
+Outside of research, I am passionate about learning new programming technologies and writing practical software-based solutions to everyday problems with them. I document my programming journey in my blog. I also enjoy working out and spending time outside.
