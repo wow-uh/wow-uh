@@ -30,8 +30,8 @@ interests:
 education:
   courses:
   - course: MAS in Sustainable Water Resources, 2024
-  institution: ETH-Zuric
-  year: 2024
+    institution: ETH-Zuric
+    year: 2024
   - course: MSc. in Hydrology and Water Resources Management
     institution: Adama Science and Technology University
     year: 2022
@@ -50,7 +50,7 @@ social:
 - icon: ORCiD
   icon_pack: fab
   link: https://orcid.org/0000-0001-9968-3742
-  - icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bayisa-tulu-201788195/
 # - icon: google-scholar
